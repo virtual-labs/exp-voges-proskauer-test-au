@@ -1,6 +1,3 @@
-## References
-
-
 ### Text books:
  
 1.	Cappuccino G .James, Sherman Natalie, Microbiology A laboratory manual, seventh edition, Pearson Education
